@@ -14,5 +14,8 @@ simple 8080 port http server
 
 ```
 git clone https://github.com/gtnasser/simple-http-server
+cd simple-http-server
+npm -i
+node server
 ```
 
